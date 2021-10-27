@@ -1,0 +1,6 @@
+-saber o numero total de alunos
+
+-pecorrer de 0 ate o numero total de alunos
+	se o numero for 0 escrever "Zero"
+	se o numero for impar, escrever "Ímpar" e o numero
+	se o numero for parescrever "Par" e o numero
