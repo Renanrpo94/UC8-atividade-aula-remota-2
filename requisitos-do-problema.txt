@@ -1,6 +1,19 @@
 saber o numero total de alunos - OK
 
 pecorrer de 0 ate o numero total de alunos
-	se o numero for 0 escrever "Zero"
-	se o numero for impar, escrever "Ímpar" e o numero
-	se o numero for parescrever "Par" e o numero
+	se o numero for 0 escrever "Zero" - OK
+	 if(contador == 0){
+    console.log("ZERO");
+	
+	se o numero for impar, escrever "Ímpar" e o numero - OK
+	 else if (contador % 2 == 1){
+      console.log("ÍMPAR")
+	
+	se o numero for parescrever "Par" e o numero - OK
+	 else if (contador % 2 == 0){
+      console.log("PAR")
+
+
+
+
+para melhorar o aspecto visual do terminal, concatenar ou interpolar no console.log
