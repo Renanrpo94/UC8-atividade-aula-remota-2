@@ -1,6 +1,8 @@
 let numeroAlunos = 5;
 
-for(let contador = 0; contador < numeroAlunos; contador++) {
+let listaAlunos = ["Chimbinha","Fulano","Beltrano","Joazinho","Mariazinha","Renan"];
+
+for(let contador = 0; contador < listaAlunos.length; contador++) {
   //console.log(contador)
 
   if(contador == 0){
